@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contain{
+    height: 100%;
+    width: 1700px;
+    display: flex;
+    gap: 60px;
+}
+.boxes{
+    
+    width: 47.5%;
+    /* border: 2px solid black; */
+}
+.imn{
+    height: 70px;
+    width: 110px;
+    margin-top: 80px;
+}
+.right{
+    margin-left: 50px;
+}
+.get{
+    font-size: 50px;
+}
+.full,.email,.sort,.last{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#lone,#wolf,#lol,#con{
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.disk{
+    display: flex;
+    gap: 20px;
+}
+#lol,#con{
+    width: 300px;
+}
+#lone,#wolf{
+    width: 640px;
+}
+.last{
+    display: flex;
+    gap: 15px;
+}
+.regi,.log{
+    
+    width: 315px;
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    border-radius: 5px;
+}
+.test{
+    text-decoration: none;
+    
+}
+.regi{
+    background-color: rgb(233, 125, 63);
+    color: white;
+    border: none;
+}
+.log{
+    border: 2px solid rgb(229, 142, 43);  
+    color:rgb(229, 142, 43) ; 
+}
+.log:hover{
+    background-color: rgb(233, 125, 63);
+    color: white;
+}
+.eat{
+    background-image: url(../images2/login2.png);
+    height: 929px;
+}

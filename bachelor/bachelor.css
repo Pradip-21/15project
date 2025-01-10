@@ -1,0 +1,220 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row1{
+    background-color: #A2D9B1 ;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    background-image: url(../images/dark.png);
+    background-size: cover;
+    padding-top: 40px;
+   
+}
+.ulil{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: white;
+}
+select{
+    border: none;
+    font-size: 15px;
+   background-color:rgb(3, 36, 3);
+    cursor: pointer;
+    color: white;
+    
+}
+.images{
+    height: 60px;
+    width: 110px;
+}
+.im{
+    margin-left: 200px;
+}
+.nav{
+    margin-left: 100px;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+#wid{
+    width: 90px;
+}
+.log{
+    margin-left: 150px;
+    font-size: 16px;
+    color: white;
+}
+.reg{
+    margin-left: 20px;
+  border-radius: 10px;
+    background-color: #F39C12 ;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+.contain{
+    height: 100%;
+    width: 1700px;
+}
+.row2{
+    margin-top: 50px;
+    justify-items: center;
+    background-color: rgb(221, 228, 234);
+    padding: 30px;
+}
+.miki{
+    font-size: 50px;
+}
+.look{
+    color: #F39C12;
+}
+.row3{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.boxes{
+    /* border: 2px solid black; */
+    width: 1300px;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,310px);
+     gap: 20px;
+}
+.heku{
+    box-shadow: 0px 0px 3px rgb(149, 145, 145);
+    height: 400px;
+}
+.ramro{
+    height: 160px;
+    width: 100%;
+}
+.cat,.gun,.burg,.shoot{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cat{
+    margin-top: 20px;
+    font-size: 24px;
+}
+.gun{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.burg{
+    margin-top: 20px;
+}
+.shoot{
+    border-radius: 3px;
+    margin-top: 20px;
+    color: #F39C12;
+    padding: 5px;
+    width: 100px;
+    font-size: 20px;
+}
+.heku:hover{
+    box-shadow: 2px 2px 8px 5px rgb(227, 221, 221);
+}
+.shoot:hover{
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-image: url(../images/dark.png);
+    background-size: cover;
+    padding-top: 20px;
+}
+.ending{
+    margin-top: 50px;
+}
+.fox{
+    margin-top: 150px;
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+.molo{
+    height: 80px;
+    width: 140px;
+}
+.tension{
+    width: 300px;
+    font-size: 21px;
+}
+.gift{
+    font-size: 30px;
+}
+.flii{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.hamro{
+    margin-top: 20px;
+}
+.uop{
+    margin-top: 10px;
+}
+.part{
+    margin-top: 80px;
+}
+.trap{
+    margin-top: 50px;
+    display: flex;
+}
+.loki{
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.vox{border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(155, 166, 170);
+    color: rgb(49, 122, 174);
+}
+#herp{
+    font-weight: bolder;
+    font-size: larger;
+}
+.tail{
+    font-size: 21px;
+    color: white;
+    margin-top: 20px;
+    justify-items: center;
+}
+.fair{
+    height: 4px;
+    border: none;
+    background-color: rgb(200, 191, 178);
+    width: 300px;
+}
+.tale{
+    margin-top: 10px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,301 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row1{
+    background-color: #A2D9B1 ;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    background-image: url(../images/dark.png);
+    background-size: cover;
+   
+}
+.container{
+    height: 100%;
+    width: 1670px;
+}
+.ulil{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: white;
+}
+select{
+    border: none;
+    font-size: 15px;
+   background-color:rgb(3, 36, 3);
+    cursor: pointer;
+    color: white;
+    
+}
+.images{
+    height: 60px;
+    width: 110px;
+}
+.im{
+    margin-left: 200px;
+}
+.nav{
+    margin-left: 100px;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+#wid{
+    width: 90px;
+}
+.log{
+    margin-left: 150px;
+    font-size: 16px;
+    color: white;
+}
+.reg{
+    margin-left: 20px;
+  border-radius: 10px;
+    background-color: #F39C12 ;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+body{
+    /* background-image: url(../images/ocean.png); */
+    background-size: cover;
+}
+.row2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.row3{
+    margin-top: 50px;
+    height: 370px;
+    width: 1310px;
+    margin-left: 190px;
+    box-shadow: 2px 2px 5px 5px rgb(115, 108, 108);
+}
+.first{
+    display: flex;
+    height: 250px;
+    gap: 20px;
+}
+.laka{
+    height: 50px;
+    margin-top: 20px;
+    width: 200px;
+    margin-left: 50px;
+}
+.phone{
+    margin-top: 40px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.pho{
+    margin-top: 10px;
+    font-size: 21px;
+}
+.second{
+    margin-left: 50px;
+    border: 1px solid rgb(126, 123, 123);
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    border-left: none;
+    border-right: none;
+}
+.third{
+   margin-left: 1050px;
+   margin-top: 10px;
+   width: 210px;
+   padding: 8px;
+   color: white;
+   background-color:#F39C12;
+}
+.row4,.row5,.row6,.row11{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+.para{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size:18px;
+    line-height: 30px;
+}
+.pora,.row8,.row10{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size:18px;
+    line-height: 30px;
+}
+.row7{
+    margin-left: 240px;
+    margin-top: 15px;
+    margin-right: 200px;
+    font-size:18px;
+    line-height: 25px;
+}
+.row9{
+    margin-top: 30px;
+    width: 1300px;
+    margin-left: 200px;
+}
+.himal{
+    display: flex;
+    height: 50px;
+    border: 2px solid black;
+    align-items: center;
+    gap: 950px;
+}
+.him{
+    margin-left: 20px;
+    width: 300px;
+}
+.himal{
+    font-size: 22px;
+    border-bottom: none;
+}
+.she{
+    font-weight: bold;
+}
+.imp{
+    color: rgb(207, 216, 216);
+}
+.goat{
+    background-color:  rgb(207, 216, 216); 
+}
+.upsi{
+    border-bottom: 2px solid black;
+}
+.row12{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.box1{
+    height: 400px;
+    width: 320px;
+   box-shadow: 2px 2px 10px rgb(175, 164, 164);
+   cursor:default;
+}
+.golf{
+    width: 300px;
+    height: 100px;
+}
+.aa{
+    font-size: 23px;
+    margin-left: 20px;
+}
+.ab{
+    margin-top: 40px;
+}
+.ad{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 19px;
+}
+.loko{
+    height: 4px;
+    margin-top: 30px;
+    background-color: rgb(207, 200, 191);
+    border: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ac{
+    display: flex;
+    gap: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 19px;
+    color: #F39C12;
+}
+footer{
+    background-image: url(../images/ocean.png);
+    background-size: cover;
+    padding-top: 20px;
+}
+.ending{
+    margin-top: 50px;
+}
+.fox{
+    margin-top: 150px;
+    margin-left: 200px;
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+.molo{
+    height: 80px;
+    width: 140px;
+}
+.tension{
+    width: 300px;
+    font-size: 21px;
+}
+.gift{
+    font-size: 30px;
+}
+.flii{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.hamro{
+    margin-top: 20px;
+}
+.uop{
+    margin-top: 10px;
+}
+.part{
+    margin-top: 80px;
+}
+.trap{
+    margin-top: 50px;
+    display: flex;
+}
+.loki{
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.vox{border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(222, 214, 204);
+    color: blue;
+}
+#herp{
+    font-weight: bolder;
+    font-size: larger;
+}
+.tail{
+    font-size: 21px;
+    color: white;
+    margin-top: 20px;
+    justify-items: center;
+}
+.fair{
+    height: 4px;
+    border: none;
+    background-color: rgb(200, 191, 178);
+    width: 300px;
+}
+.tale{
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
